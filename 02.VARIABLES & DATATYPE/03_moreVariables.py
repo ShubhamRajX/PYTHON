@@ -6,7 +6,7 @@ harry = "Shubham"
 
 raj = "Anisha"
 
-_vicky = 34
+_vicky = "Bihar"
 
 # @sameer = 56 # Invalid due to @ symbol
 # s@meer # Invalid due to @ symbol
@@ -14,3 +14,4 @@ _vicky = 34
 print(a)
 print(harry)
 print(raj)
+print(_vicky)
