@@ -1,8 +1,8 @@
 name = "Shubham"
 
 nameshort1 = name[0:3]        # start from index 0 all the way till 3 (excluding 3)
-nameshort2 = name[0:5]
-nameshort3 = name[0:7]
+nameshort2 = name[1:5]
+nameshort3 = name[0: ]        # nameshort3 = name[0: 7]
 
 print(nameshort1)
 print(nameshort2)
